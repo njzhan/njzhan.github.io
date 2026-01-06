@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Publications/";
           },
+        },{id: "nav-services",
+          title: "Services",
+          description: "Professional activities and academic service roles.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Services/";
+          },
         },{id: "nav-students",
           title: "Students",
           description: "Members and alumni of Naijun Zhan&#39;s group.",
