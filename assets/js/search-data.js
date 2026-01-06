@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Services/";
           },
-        },{id: "nav-students",
-          title: "Students",
-          description: "Members and alumni of Naijun Zhan&#39;s group.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Students/";
-          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Courses taught by Naijun Zhan.",
