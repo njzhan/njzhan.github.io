@@ -1,16 +1,19 @@
 ---
 layout: about
-title: About
-permalink: /
-subtitle: <a href='https://cs.pku.edu.cn/English/Home.htm'>School of Computer Science, Peking University</a>.
+title: about
+permalink: /about/
+nav: true
+nav_order: 1
+published: false
+subtitle: Boya Distinguished Professor, School of Computer Science, Peking University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office: Room 1507, Science Building No. 1</p>
-    <p>Peking University, 5 Yiheyuan Road, Haidian District Beijing 100871, China</p>
+    <p>Office: Room 327, Building 5</p>
+    <p>No. 4, South Fourth Street, Zhong Guan Cun, Beijing, 100190, China</p>
     <p>Email: njzhan@pku.edu.cn</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
