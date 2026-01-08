@@ -45,4 +45,4 @@ Dr. Naijun Zhan is a Boya distinguished professor in the School of Computer Scie
 
 ## Prospective students and postdocs
 
-I am looking for motivated PhD students and postdocs interested in formal methods, hybrid systems, and safety-critical software. If you would like to join the group, please feel free to get in touch.
+I am looking for motivated undergrads, grads(PhD and master), and postdocs interested in formal methods(automated reasoning & model checking), hybrid systems, and safety-critical software. If you would like to join the group, please feel free to get in touch.
