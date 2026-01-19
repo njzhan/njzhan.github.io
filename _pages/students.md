@@ -10,8 +10,6 @@ nav_order: 3
 
 ## Graduate students (PhD)
 
-- Tengshun Yang
-- Xiangyu Jin
 - Ziran Wang
 - Hao Wu
 - Jiyu Zhu
@@ -30,10 +28,13 @@ nav_order: 3
 - Hengjun Zhao (now: Associate professor, Southwest University)
 - Liang Zou (now: Tech Lead at Horizon Robotics)
 - Mingshuai Chen (now: Assistant Professor, Zhejiang University)
-- Lintai Wang (now: )
+- Lintai Wang (now: Research Scientist at CCID)
 - Qiuye Wang (now: Tech Lead at Alibaba)
+- Jie An (now: Research Associate Professor at ISCAS)
 - Shenghua Feng (now: Research Scientist at Zhongguancun Laboratory)
 - Han Su (now: Postdoc at NII, Japan)
+- Tengshun Yang (now: Research Scientist at Huawei)
+- Xiangyu Jin (now: Postdoc at ISCAS)
 
 **Master**
 - Zhao Quan
@@ -62,7 +63,7 @@ nav_order: 3
 - Xiong Xu
 
 
-## Undergraduate students
+<!-- ## Undergraduate students
 
 - Changlin Li (PKU)
 - Xixiao Yuan (PKU)
@@ -71,4 +72,4 @@ nav_order: 3
 
 ## Undergraduate Alumni
 
-- Weiqiang Xiong (UCAS)
+- Weiqiang Xiong (UCAS) -->
