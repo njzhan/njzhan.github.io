@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-28'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Compositional properties of sequential processes
     year: '2005'
   bd-XZkYAAAAJ:0EnyYjriUFMC:
-    citations: 93
+    citations: 94
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
@@ -22,7 +22,7 @@ papers:
     title: Formal verification of quantum algorithms using quantum Hoare logic
     year: '2019'
   bd-XZkYAAAAJ:0N-VGjzr574C:
-    citations: 16
+    citations: 17
     title: Learning nondeterministic real-time automata
     year: '2021'
   bd-XZkYAAAAJ:1qzjygNMrQYC:
@@ -142,7 +142,7 @@ papers:
     title: An assume/guarantee based compositional calculus for hybrid CSP
     year: '2012'
   bd-XZkYAAAAJ:8xutWZnSdmoC:
-    citations: 0
+    citations: 1
     title: WCET Estimation for CNN Inference on FPGA SoC With Multi-DPU Engines
     year: '2025'
   bd-XZkYAAAAJ:9ZlFYXVOiuMC:
@@ -178,7 +178,7 @@ papers:
     title: Safe over-and under-approximation of reachable sets for delay differential equations
     year: '2017'
   bd-XZkYAAAAJ:ClCfbGk0d_YC:
-    citations: 20
+    citations: 22
     title: Formal analysis of 5G authentication and key management for applications (AKMA)
     year: '2022'
   bd-XZkYAAAAJ:D03iK_w7-QYC:
@@ -362,7 +362,7 @@ papers:
     title: Interface of Software Components with Internal Behaviors
     year: Unknown Year
   bd-XZkYAAAAJ:ODE9OILHJdcC:
-    citations: 5
+    citations: 6
     title: On completeness of SDP-based barrier certificate synthesis over unbounded domains
     year: '2024'
   bd-XZkYAAAAJ:OP4eGU-M3BUC:
@@ -394,7 +394,7 @@ papers:
     title: Semantics foundation for cyber-physical systems using higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:PoWvk5oyLR8C:
-    citations: 9
+    citations: 10
     title: Robust invariant sets computation for discrete-time perturbed nonlinear systems
     year: '2021'
   bd-XZkYAAAAJ:QIV2ME_5wuYC:
@@ -470,7 +470,7 @@ papers:
     title: Formal verification of Simulink/Stateflow diagrams
     year: '2015'
   bd-XZkYAAAAJ:Ug5p-4gJ2f0C:
-    citations: 55
+    citations: 56
     title: Learning one-clock timed automata
     year: '2020'
   bd-XZkYAAAAJ:VL0QpB8kHFEC:
@@ -594,7 +594,7 @@ papers:
     title: Learning deterministic one-clock timed automata via mutation testing
     year: '2022'
   bd-XZkYAAAAJ:anf4URPfarAC:
-    citations: 22
+    citations: 25
     title: Reach-avoid verification based on convex optimization
     year: '2023'
   bd-XZkYAAAAJ:aqlVkmm33-oC:
@@ -662,7 +662,7 @@ papers:
     title: Monitoring CTMCs by Multi-clock Timed Automata
     year: Unknown Year
   bd-XZkYAAAAJ:eflP2zaiRacC:
-    citations: 49
+    citations: 50
     title: Finding polynomial loop invariants for probabilistic programs
     year: '2017'
   bd-XZkYAAAAJ:epqYDVWIO7EC:
@@ -730,7 +730,7 @@ papers:
     title: On termination of polynomial programs with equality conditions
     year: '2015'
   bd-XZkYAAAAJ:hMsQuOkrut0C:
-    citations: 26
+    citations: 27
     title: Learning real-time automata
     year: '2021'
   bd-XZkYAAAAJ:hkOj_22Ku90C:
