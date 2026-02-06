@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-06'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Compositional properties of sequential processes
     year: '2005'
   bd-XZkYAAAAJ:0EnyYjriUFMC:
-    citations: 94
+    citations: 95
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
@@ -42,7 +42,7 @@ papers:
     title: Reset controller synthesis by reach-avoid analysis for delay hybrid systems
     year: '2023'
   bd-XZkYAAAAJ:2osOgNQ5qMEC:
-    citations: 145
+    citations: 146
     title: A calculus for hybrid CSP
     year: '2010'
   bd-XZkYAAAAJ:35N4QoGY0k4C:
@@ -201,6 +201,10 @@ papers:
     citations: 0
     title: Taming Delays in Cyber-Physical Systems
     year: '2022'
+  bd-XZkYAAAAJ:F1b5ZUV5XREC:
+    citations: 0
+    title: Formal design of safety-critical systems with MARS
+    year: '2026'
   bd-XZkYAAAAJ:F9fV5C73w3QC:
     citations: 1
     title: 'HpC: A Calculus for Hybrid and Mobile Systems--Full Version'
@@ -246,7 +250,7 @@ papers:
     title: A Laboratory for Basic Research in Computer Science and Software Engineering
     year: Unknown Year
   bd-XZkYAAAAJ:HtEfBTGE9r8C:
-    citations: 13
+    citations: 14
     title: 'Encoding inductive invariants as barrier certificates: Synthesis via difference-of-convex programming'
     year: '2022'
   bd-XZkYAAAAJ:HtS1dXgVpQUC:
@@ -350,7 +354,7 @@ papers:
     title: Decidability of the initial-state opacity of real-time automata
     year: '2018'
   bd-XZkYAAAAJ:NXb4pA-qfm4C:
-    citations: 13
+    citations: 14
     title: A denotational semantics of Simulink with higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:NaGl4SEjCO4C:
@@ -362,7 +366,7 @@ papers:
     title: Interface of Software Components with Internal Behaviors
     year: Unknown Year
   bd-XZkYAAAAJ:ODE9OILHJdcC:
-    citations: 6
+    citations: 7
     title: On completeness of SDP-based barrier certificate synthesis over unbounded domains
     year: '2024'
   bd-XZkYAAAAJ:OP4eGU-M3BUC:
@@ -390,7 +394,7 @@ papers:
     title: A Higher-order duration calculus and its applications
     year: '2000'
   bd-XZkYAAAAJ:PVjk1bu6vJQC:
-    citations: 16
+    citations: 17
     title: Semantics foundation for cyber-physical systems using higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:PoWvk5oyLR8C:
@@ -486,7 +490,7 @@ papers:
     title: Synthesizing robust domains of attraction for state-constrained perturbed polynomial systems
     year: '2021'
   bd-XZkYAAAAJ:WF5omc3nYNoC:
-    citations: 39
+    citations: 40
     title: Formal verification of a descent guidance control program of a lunar lander
     year: '2014'
   bd-XZkYAAAAJ:WJVC3Jt7v1AC:
@@ -530,7 +534,7 @@ papers:
     title: "Formal Methods: 24th International Symposium, FM 2021, Virtual Event, November 20\u201326, 2021, Proceedings"
     year: '2021'
   bd-XZkYAAAAJ:YsMSGLbcyi4C:
-    citations: 73
+    citations: 74
     title: Verifying Chinese train control system under a combined scenario by theorem proving
     year: '2013'
   bd-XZkYAAAAJ:ZHo1McVdvXMC:
@@ -550,7 +554,7 @@ papers:
     title: Compositionality of fixpoint logic with chop
     year: '2005'
   bd-XZkYAAAAJ:ZuybSZzF8UAC:
-    citations: 55
+    citations: 56
     title: The opacity of real-time automata
     year: '2018'
   bd-XZkYAAAAJ:ZzlSgRqYykMC:
@@ -566,7 +570,7 @@ papers:
     title: Program verification by reduction to semi-algebraic systems solving
     year: '2008'
   bd-XZkYAAAAJ:_OXeSy2IsFwC:
-    citations: 7
+    citations: 8
     title: Enhancing Transformation from Natural Language to Signal Temporal Logic Using LLMs with Diverse External Knowledge
     year: '2025'
   bd-XZkYAAAAJ:_Qo2XoVZTnwC:
@@ -578,7 +582,7 @@ papers:
     title: General Chairs Kai Hu, Beihang University, China Naijun Zhan, Chinese Academy of Science, China Program Chairs Patricia Derler, National Instruments, USA
     year: Unknown Year
   bd-XZkYAAAAJ:_kc_bZDykSQC:
-    citations: 79
+    citations: 80
     title: 'An improved HHL prover: an interactive theorem prover for hybrid systems'
     year: '2015'
   bd-XZkYAAAAJ:a0OBvERweLwC:
@@ -626,7 +630,7 @@ papers:
     title: Switching controller synthesis for hybrid systems against STL formulas
     year: '2024'
   bd-XZkYAAAAJ:d1gkVwhDpl0C:
-    citations: 144
+    citations: 146
     title: Computing semi-algebraic invariants for polynomial dynamical systems
     year: '2011'
   bd-XZkYAAAAJ:dQ2og3OwTAUC:
@@ -694,7 +698,7 @@ papers:
     title: 'NEAT: QCP: A Practical Separation Logic-based C Program Verification Tool'
     year: '2025'
   bd-XZkYAAAAJ:foquWX3nUaYC:
-    citations: 3
+    citations: 4
     title: 'Brief industry paper: modeling and verification of descent guidance control of mars lander'
     year: '2021'
   bd-XZkYAAAAJ:gKiMpY-AVTkC:
@@ -718,7 +722,7 @@ papers:
     title: An intuitive formal proof for deadline driven scheduler
     year: '2001'
   bd-XZkYAAAAJ:hCrLmN-GePgC:
-    citations: 24
+    citations: 25
     title: Unified graphical co-modeling, analysis and verification of cyber-physical systems by combining AADL and Simulink/Stateflow
     year: '2022'
   bd-XZkYAAAAJ:hFOr9nPyWt4C:
@@ -870,7 +874,7 @@ papers:
     title: Defensive Design of Saturating Counters Based on Differential Privacy
     year: '2022'
   bd-XZkYAAAAJ:roLk4NBRz8UC:
-    citations: 50
+    citations: 51
     title: Abstraction of elementary hybrid systems by variable transformation
     year: '2015'
   bd-XZkYAAAAJ:sNmaIFBj_lkC:
@@ -966,7 +970,7 @@ papers:
     title: Improving the reaction latency analysis of message synchronization in ros
     year: '2024'
   bd-XZkYAAAAJ:yMeIxYmEMEAC:
-    citations: 2
+    citations: 3
     title: Modeling and analysis of the latesttime message synchronization policy in ros
     year: '2024'
   bd-XZkYAAAAJ:ye4kPcJQO24C:
@@ -982,7 +986,7 @@ papers:
     title: Combining formal and informal methods in the design of spacecrafts
     year: '2016'
   bd-XZkYAAAAJ:zLWjf1WUPmwC:
-    citations: 25
+    citations: 26
     title: Automatically generating SystemC code from HCSP formal models
     year: '2020'
   bd-XZkYAAAAJ:z_wVstp3MssC:
