@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-11'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
-    citations: 142
+    citations: 141
     title: Formal verification of quantum algorithms using quantum Hoare logic
     year: '2019'
   bd-XZkYAAAAJ:0N-VGjzr574C:
@@ -26,7 +26,7 @@ papers:
     title: Learning nondeterministic real-time automata
     year: '2021'
   bd-XZkYAAAAJ:1qzjygNMrQYC:
-    citations: 56
+    citations: 57
     title: Reachability analysis for solvable dynamical systems
     year: '2017'
   bd-XZkYAAAAJ:1yQoGdGgb4wC:
@@ -134,7 +134,7 @@ papers:
     title: A Calculus for Hybrid CSP
     year: Unknown Year
   bd-XZkYAAAAJ:8d8msizDQcsC:
-    citations: 0
+    citations: 1
     title: Machine-checked executable semantics of Stateflow
     year: '2022'
   bd-XZkYAAAAJ:8k81kl-MbHgC:
@@ -234,7 +234,7 @@ papers:
     title: Under-approximating reach sets for polynomial continuous systems
     year: '2018'
   bd-XZkYAAAAJ:HIFyuExEbWQC:
-    citations: 3
+    citations: 4
     title: 'Mars 2.0: A Toolchain for Modeling, Analysis, Verification and Code Generation of Cyber-Physical Systems'
     year: '2024'
   bd-XZkYAAAAJ:HbR8gkJAVGIC:
@@ -338,7 +338,7 @@ papers:
     title: Deriving non-determinism from conjunction and disjunction
     year: '2005'
   bd-XZkYAAAAJ:M7yex6snE4oC:
-    citations: 11
+    citations: 12
     title: Inferring switched nonlinear dynamical systems
     year: '2021'
   bd-XZkYAAAAJ:MLfJN-KU85MC:
@@ -354,7 +354,7 @@ papers:
     title: Decidability of the initial-state opacity of real-time automata
     year: '2018'
   bd-XZkYAAAAJ:NXb4pA-qfm4C:
-    citations: 14
+    citations: 15
     title: A denotational semantics of Simulink with higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:NaGl4SEjCO4C:
@@ -514,7 +514,7 @@ papers:
     title: Learning Nondeterministic Real-Time Automata
     year: '2021'
   bd-XZkYAAAAJ:Y0pCki6q_DkC:
-    citations: 74
+    citations: 75
     title: Verifying simulink diagrams via a hybrid hoare logic prover
     year: '2013'
   bd-XZkYAAAAJ:Y5dfb0dijaUC:
@@ -598,7 +598,7 @@ papers:
     title: Learning deterministic one-clock timed automata via mutation testing
     year: '2022'
   bd-XZkYAAAAJ:anf4URPfarAC:
-    citations: 25
+    citations: 24
     title: Reach-avoid verification based on convex optimization
     year: '2023'
   bd-XZkYAAAAJ:aqlVkmm33-oC:
@@ -703,8 +703,8 @@ papers:
     year: '2021'
   bd-XZkYAAAAJ:gKiMpY-AVTkC:
     citations: 0
-    title: Formal Semantics for Hierarchical Simulink Diagrams in Isabelle/HOL
-    year: Unknown Year
+    title: Formal semantics for hierarchical Simulink diagrams in Isabelle/HOL
+    year: '2026'
   bd-XZkYAAAAJ:gVv57TyPmFsC:
     citations: 0
     title: Efficient Decomposition Identification of Deterministic Finite Automata from Examples
@@ -938,7 +938,7 @@ papers:
     title: Translating Simulink/Stateflow Diagrams into HCSP
     year: '2016'
   bd-XZkYAAAAJ:uc_IGeMz5qoC:
-    citations: 22
+    citations: 23
     title: 'Taming delays in dynamical systems: Unbounded verification of delay differential equations'
     year: '2019'
   bd-XZkYAAAAJ:ufrVoPGSRksC:
