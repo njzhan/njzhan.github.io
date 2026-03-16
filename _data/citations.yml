@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-03-16'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -18,13 +18,17 @@ papers:
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
-    citations: 147
+    citations: 148
     title: Formal verification of quantum algorithms using quantum Hoare logic
     year: '2019'
   bd-XZkYAAAAJ:0N-VGjzr574C:
     citations: 17
     title: Learning nondeterministic real-time automata
     year: '2021'
+  bd-XZkYAAAAJ:1lhNe0rCu4AC:
+    citations: 0
+    title: Formal Methods and Software Engineering
+    year: '2026'
   bd-XZkYAAAAJ:1qzjygNMrQYC:
     citations: 60
     title: Reachability analysis for solvable dynamical systems
@@ -294,7 +298,7 @@ papers:
     title: "Indecision and delays are the parents of failure\u2014taming them algorithmically by synthesizing delay-resilient control"
     year: '2021'
   bd-XZkYAAAAJ:IRz6iEL74y4C:
-    citations: 11
+    citations: 12
     title: 'A decision procedure for string constraints with string/integer conversion and flat regular constraints: H. Wu et al.'
     year: '2024'
   bd-XZkYAAAAJ:IUKN3-7HHlwC:
@@ -594,7 +598,7 @@ papers:
     title: Compositionality of fixpoint logic with chop
     year: '2005'
   bd-XZkYAAAAJ:ZuybSZzF8UAC:
-    citations: 58
+    citations: 59
     title: The opacity of real-time automata
     year: '2018'
   bd-XZkYAAAAJ:ZzlSgRqYykMC:
