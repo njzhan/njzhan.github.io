@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-04-01'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
-    citations: 148
+    citations: 151
     title: Formal verification of quantum algorithms using quantum Hoare logic
     year: '2019'
   bd-XZkYAAAAJ:0N-VGjzr574C:
@@ -178,7 +178,7 @@ papers:
     title: Generalizing sdp-based barrier certificate synthesis to unbounded domains by dropping archimedean condition
     year: '2023'
   bd-XZkYAAAAJ:9yKSN-GCB0IC:
-    citations: 59
+    citations: 60
     title: A model of component-based programming
     year: '2007'
   bd-XZkYAAAAJ:AHdEip9mkN0C:
@@ -270,7 +270,7 @@ papers:
     title: Under-approximating reach sets for polynomial continuous systems
     year: '2018'
   bd-XZkYAAAAJ:HIFyuExEbWQC:
-    citations: 3
+    citations: 5
     title: 'Mars 2.0: A toolchain for modeling, analysis, verification and code generation of cyber-physical systems'
     year: '2024'
   bd-XZkYAAAAJ:HbR8gkJAVGIC:
@@ -434,7 +434,7 @@ papers:
     title: "Recent advances in program verification through computer algebra. Frontiers of Computer Science in China 4, 1 (2010), 1\u201316"
     year: '2010'
   bd-XZkYAAAAJ:PVjk1bu6vJQC:
-    citations: 17
+    citations: 18
     title: Semantics foundation for cyber-physical systems using higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:PoWvk5oyLR8C:
@@ -603,8 +603,8 @@ papers:
     year: '2018'
   bd-XZkYAAAAJ:ZzlSgRqYykMC:
     citations: 2
-    title: Modeling and Verification of Hybrid Systems by Extending AADL
-    year: '2025'
+    title: Modeling and verification of hybrid systems by extending AADL
+    year: '2026'
   bd-XZkYAAAAJ:_5tno0g5mFcC:
     citations: 2
     title: Correct-by-construction for hybrid systems by synthesizing reset controller
@@ -626,7 +626,7 @@ papers:
     title: General Chairs Kai Hu, Beihang University, China Naijun Zhan, Chinese Academy of Science, China Program Chairs Patricia Derler, National Instruments, USA
     year: Unknown Year
   bd-XZkYAAAAJ:_kc_bZDykSQC:
-    citations: 82
+    citations: 83
     title: 'An improved HHL prover: an interactive theorem prover for hybrid systems'
     year: '2015'
   bd-XZkYAAAAJ:a0OBvERweLwC:
@@ -674,7 +674,7 @@ papers:
     title: Formal Verification of Simulink/Stateflow Diagrams
     year: '2017'
   bd-XZkYAAAAJ:cWzG1nlazyYC:
-    citations: 3
+    citations: 4
     title: Switching controller synthesis for hybrid systems against STL formulas
     year: '2024'
   bd-XZkYAAAAJ:d1gkVwhDpl0C:
@@ -706,7 +706,7 @@ papers:
     title: Component publications and compositions
     year: '2008'
   bd-XZkYAAAAJ:e_rmSamDkqQC:
-    citations: 73
+    citations: 74
     title: Overview of formal methods
     year: '2019'
   bd-XZkYAAAAJ:edDO8Oi4QzsC:
@@ -802,7 +802,7 @@ papers:
     title: Probably approximate safety verification of hybrid dynamical systems
     year: '2019'
   bd-XZkYAAAAJ:isC4tDSrTZIC:
-    citations: 30
+    citations: 31
     title: Behavior modeling and verification of movement authority scenario of Chinese train control system using AADL
     year: '2015'
   bd-XZkYAAAAJ:j3f4tGmQtD8C:
@@ -882,11 +882,11 @@ papers:
     title: On synthesis of timed regular expressions
     year: '2025'
   bd-XZkYAAAAJ:nZcligLrVowC:
-    citations: 2
+    citations: 3
     title: Runtime enforcement of CPS against signal temporal logic
     year: '2025'
   bd-XZkYAAAAJ:nrtMV_XWKgEC:
-    citations: 14
+    citations: 15
     title: Unified graphical co-modelling of cyber-physical systems using AADL and Simulink/Stateflow
     year: '2019'
   bd-XZkYAAAAJ:ns9cj8rnVeAC:
@@ -942,7 +942,7 @@ papers:
     title: Safe Over-and Under-Approximation of Reachable Sets for Delay Differential Equations
     year: '2017'
   bd-XZkYAAAAJ:sNmaIFBj_lkC:
-    citations: 11
+    citations: 12
     title: A generalized hybrid Hoare logic
     year: '2023'
   bd-XZkYAAAAJ:sSrBHYA8nusC:
@@ -956,7 +956,7 @@ papers:
   bd-XZkYAAAAJ:tH6gc1N1XXoC:
     citations: 0
     title: 'RESTL: Reinforcement Learning Guided by Multi-Aspect Rewards for Signal Temporal Logic Transformation'
-    year: '2025'
+    year: '2026'
   bd-XZkYAAAAJ:tKAzc9rXhukC:
     citations: 0
     title: WELCOME MESSAGE FROM THE CHAIRS
@@ -970,7 +970,7 @@ papers:
     title: Unbounded-time safety verification of stochastic differential dynamics
     year: '2020'
   bd-XZkYAAAAJ:tkaPQYYpVKoC:
-    citations: 40
+    citations: 41
     title: Modelling with relational calculus of object and component systems-rCOS
     year: '2008'
   bd-XZkYAAAAJ:tzM49s52ZIMC:
@@ -986,7 +986,7 @@ papers:
     title: Discovering non-linear ranking functions by solving semi-algebraic systems
     year: '2007'
   bd-XZkYAAAAJ:u5HHmVD_uO8C:
-    citations: 83
+    citations: 84
     title: Refinement and verification in component-based model-driven design
     year: '2009'
   bd-XZkYAAAAJ:uDGL6kOW6j0C:
@@ -1005,6 +1005,10 @@ papers:
     citations: 0
     title: Translating Simulink/Stateflow Diagrams into HCSP
     year: '2016'
+  bd-XZkYAAAAJ:ubry08Y2EpUC:
+    citations: 0
+    title: Corrigendum to Formal semantics for hierarchical Simulink diagrams in Isabelle/HOL:[Journal of Systems Architecture Volume 174 (May 2026)/Article 103724]
+    year: '2026'
   bd-XZkYAAAAJ:uc_IGeMz5qoC:
     citations: 24
     title: 'Taming delays in dynamical systems: Unbounded verification of delay differential equations'
@@ -1018,7 +1022,7 @@ papers:
     title: Lower bounds for possibly divergent probabilistic programs
     year: '2023'
   bd-XZkYAAAAJ:vDZJ-YLwNdEC:
-    citations: 0
+    citations: 1
     title: A Brief History of Formal Methods in China
     year: '2025'
   bd-XZkYAAAAJ:vRqMK49ujn8C:
