@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-06'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -298,11 +298,11 @@ papers:
     title: "Indecision and delays are the parents of failure\u2014taming them algorithmically by synthesizing delay-resilient control"
     year: '2021'
   bd-XZkYAAAAJ:IRz6iEL74y4C:
-    citations: 12
+    citations: 13
     title: 'A decision procedure for string constraints with string/integer conversion and flat regular constraints: H. Wu et al.'
     year: '2024'
   bd-XZkYAAAAJ:IUKN3-7HHlwC:
-    citations: 21
+    citations: 23
     title: Reach-avoid analysis for polynomial stochastic differential equations
     year: '2023'
   bd-XZkYAAAAJ:IWHjjKOFINEC:
@@ -418,7 +418,7 @@ papers:
     title: Unified Graphical Co-modelling, Analysis and Verification of Cyber-physical Systems by Combining AADL and Simulink/Stateflow
     year: '2023'
   bd-XZkYAAAAJ:OcBU2YAGkTUC:
-    citations: 14
+    citations: 15
     title: The opacity of timed automata
     year: '2024'
   bd-XZkYAAAAJ:P7Ujq4OLJYoC:
@@ -598,7 +598,7 @@ papers:
     title: Compositionality of fixpoint logic with chop
     year: '2005'
   bd-XZkYAAAAJ:ZuybSZzF8UAC:
-    citations: 59
+    citations: 60
     title: The opacity of real-time automata
     year: '2018'
   bd-XZkYAAAAJ:ZzlSgRqYykMC:
@@ -614,7 +614,7 @@ papers:
     title: Program verification by reduction to semi-algebraic systems solving
     year: '2008'
   bd-XZkYAAAAJ:_OXeSy2IsFwC:
-    citations: 8
+    citations: 9
     title: Enhancing transformation from natural language to signal temporal logic using LLMs with diverse external knowledge
     year: '2025'
   bd-XZkYAAAAJ:_Qo2XoVZTnwC:
@@ -894,7 +894,7 @@ papers:
     title: Invariant Generation
     year: '2016'
   bd-XZkYAAAAJ:oNZyr7d5Mn4C:
-    citations: 26
+    citations: 27
     title: Reach-avoid analysis for stochastic discrete-time systems
     year: '2021'
   bd-XZkYAAAAJ:otzGkya1bYkC:
@@ -982,7 +982,7 @@ papers:
     title: Learning Subject to Constraints via Abstract Gradient Descent
     year: '2025'
   bd-XZkYAAAAJ:u-x6o8ySG0sC:
-    citations: 90
+    citations: 91
     title: Discovering non-linear ranking functions by solving semi-algebraic systems
     year: '2007'
   bd-XZkYAAAAJ:u5HHmVD_uO8C:
@@ -1042,11 +1042,11 @@ papers:
     title: Unifying Theories of Programming (UTP)
     year: '2016'
   bd-XZkYAAAAJ:yFnVuubrUp4C:
-    citations: 2
+    citations: 3
     title: Improving the reaction latency analysis of message synchronization in ros
     year: '2024'
   bd-XZkYAAAAJ:yMeIxYmEMEAC:
-    citations: 3
+    citations: 4
     title: Modeling and analysis of the latesttime message synchronization policy in ros
     year: '2024'
   bd-XZkYAAAAJ:ye4kPcJQO24C:
