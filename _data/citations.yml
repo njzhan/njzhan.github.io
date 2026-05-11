@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-05-11'
 papers:
   bd-XZkYAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: Compositional properties of sequential processes
     year: '2005'
   bd-XZkYAAAAJ:0EnyYjriUFMC:
-    citations: 97
+    citations: 101
     title: Barrier certificates revisited
     year: '2017'
   bd-XZkYAAAAJ:0KyAp5RtaNEC:
-    citations: 151
+    citations: 156
     title: Formal verification of quantum algorithms using quantum Hoare logic
     year: '2019'
   bd-XZkYAAAAJ:0N-VGjzr574C:
@@ -46,7 +46,7 @@ papers:
     title: Reset controller synthesis by reach-avoid analysis for delay hybrid systems
     year: '2023'
   bd-XZkYAAAAJ:2osOgNQ5qMEC:
-    citations: 147
+    citations: 151
     title: A calculus for hybrid CSP
     year: '2010'
   bd-XZkYAAAAJ:2tRrZ1ZAMYUC:
@@ -73,6 +73,10 @@ papers:
     citations: 0
     title: Synthesizing Switching Controllers for Hybrid Systems by Continuous Invariant Generation
     year: '2013'
+  bd-XZkYAAAAJ:43bX7VzcjpAC:
+    citations: 0
+    title: for Parallel Hybrid Communicating Sequential
+    year: Unknown Year
   bd-XZkYAAAAJ:48xauSegjOkC:
     citations: 2
     title: A Generalized Hybrid Hoare Logic. CoRR abs/2303.15020 (2023)
@@ -106,11 +110,11 @@ papers:
     title: "\u57FA\u4E8E AADL \u7684\u4E2D\u56FD\u9AD8\u901F\u94C1\u8DEF\u63A7\u5236\u7CFB\u7EDF\u4E2D\u7684\u79FB\u52A8\u6388\u6743\u573A\u666F\u5EFA\u6A21\u4E0E\u9A8C\u8BC1"
     year: '2015'
   bd-XZkYAAAAJ:4vMrXwiscB8C:
-    citations: 2
+    citations: 3
     title: Piecewise Linear Expectation Analysis via -Induction for Probabilistic Programs
     year: '2024'
   bd-XZkYAAAAJ:4xDN1ZYqzskC:
-    citations: 3
+    citations: 4
     title: Shenggang Ying, Tao Liu, Yangjia Li, Mingsheng Ying, Naijun Zhan
     year: Unknown Year
   bd-XZkYAAAAJ:5MTHONV0fEkC:
@@ -146,11 +150,11 @@ papers:
     title: Translating Simulink Diagrams into HCSP
     year: '2016'
   bd-XZkYAAAAJ:7PzlFSSx8tAC:
-    citations: 13
+    citations: 14
     title: Extending hybrid CSP with probability and stochasticity
     year: '2015'
   bd-XZkYAAAAJ:86PQX7AUzd4C:
-    citations: 2
+    citations: 3
     title: Switching controller synthesis for time-delayed hybrid systems
     year: '2021'
   bd-XZkYAAAAJ:8AbLer7MMksC:
@@ -166,7 +170,7 @@ papers:
     title: An assume/guarantee based compositional calculus for hybrid CSP
     year: '2012'
   bd-XZkYAAAAJ:8xutWZnSdmoC:
-    citations: 1
+    citations: 2
     title: WCET Estimation for CNN Inference on FPGA SoC With Multi-DPU Engines
     year: '2025'
   bd-XZkYAAAAJ:9ZlFYXVOiuMC:
@@ -178,7 +182,7 @@ papers:
     title: Generalizing sdp-based barrier certificate synthesis to unbounded domains by dropping archimedean condition
     year: '2023'
   bd-XZkYAAAAJ:9yKSN-GCB0IC:
-    citations: 60
+    citations: 61
     title: A model of component-based programming
     year: '2007'
   bd-XZkYAAAAJ:AHdEip9mkN0C:
@@ -194,7 +198,7 @@ papers:
     title: Quantifier Elimination Meets Treewidth
     year: '2026'
   bd-XZkYAAAAJ:Aul-kAQHnToC:
-    citations: 34
+    citations: 36
     title: Intelligent program synthesis framework and key scientific problems for embedded software
     year: '2022'
   bd-XZkYAAAAJ:BJbdYPG6LGMC:
@@ -209,12 +213,16 @@ papers:
     citations: 32
     title: Safe over-and under-approximation of reachable sets for delay differential equations
     year: '2017'
+  bd-XZkYAAAAJ:BzfGm06jWhQC:
+    citations: 0
+    title: 'ClarifySTL: An Interactive LLM Agent Framework for STL Transformation through Requirements Clarification'
+    year: '2026'
   bd-XZkYAAAAJ:CaZNVDsoPx4C:
     citations: 0
     title: Formal Methods
     year: Unknown Year
   bd-XZkYAAAAJ:ClCfbGk0d_YC:
-    citations: 21
+    citations: 22
     title: Formal analysis of 5G authentication and key management for applications (AKMA)
     year: '2022'
   bd-XZkYAAAAJ:D03iK_w7-QYC:
@@ -250,7 +258,7 @@ papers:
     title: Reach-avoid analysis for delay differential equations
     year: '2021'
   bd-XZkYAAAAJ:Fu2w8maKXqMC:
-    citations: 18
+    citations: 19
     title: Over-and underapproximating reach sets for perturbed delay differential equations
     year: '2020'
   bd-XZkYAAAAJ:GFxP56DSvIMC:
@@ -274,7 +282,7 @@ papers:
     title: 'Mars 2.0: A toolchain for modeling, analysis, verification and code generation of cyber-physical systems'
     year: '2024'
   bd-XZkYAAAAJ:HbR8gkJAVGIC:
-    citations: 12
+    citations: 13
     title: Safety guarantee for time-delay systems with disturbances
     year: '2023'
   bd-XZkYAAAAJ:HeT0ZceujKMC:
@@ -296,13 +304,13 @@ papers:
   bd-XZkYAAAAJ:ILKRHgRFtOwC:
     citations: 16
     title: "Indecision and delays are the parents of failure\u2014taming them algorithmically by synthesizing delay-resilient control"
-    year: '2021'
+    year: '2020'
   bd-XZkYAAAAJ:IRz6iEL74y4C:
     citations: 13
     title: 'A decision procedure for string constraints with string/integer conversion and flat regular constraints: H. Wu et al.'
     year: '2024'
   bd-XZkYAAAAJ:IUKN3-7HHlwC:
-    citations: 23
+    citations: 25
     title: Reach-avoid analysis for polynomial stochastic differential equations
     year: '2023'
   bd-XZkYAAAAJ:IWHjjKOFINEC:
@@ -310,7 +318,7 @@ papers:
     title: Action refinement from a logical point of view
     year: '2002'
   bd-XZkYAAAAJ:IjCSPb-OGe4C:
-    citations: 61
+    citations: 68
     title: Recent advances in program verification through computer algebra
     year: '2010'
   bd-XZkYAAAAJ:JV2RwH3_ST0C:
@@ -334,15 +342,15 @@ papers:
     title: RTCSA 2024
     year: Unknown Year
   bd-XZkYAAAAJ:KlAtU1dfN6UC:
-    citations: 21
+    citations: 22
     title: "A \u201Chybrid\u201D approach for synthesizing optimal controllers of hybrid systems: A case study of the oil pump industrial example"
     year: '2012'
   bd-XZkYAAAAJ:L8Ckcad2t8MC:
-    citations: 4
+    citations: 5
     title: Bounded model-checking of discrete duration calculus
     year: '2013'
   bd-XZkYAAAAJ:LI9QrySNdTsC:
-    citations: 13
+    citations: 14
     title: Inner-approximating reach-avoid sets for discrete-time polynomial systems
     year: '2020'
   bd-XZkYAAAAJ:LO7wyVUgiFcC:
@@ -358,7 +366,7 @@ papers:
     title: connecting algebraic and logical descriptions of concurrent systems
     year: '2007'
   bd-XZkYAAAAJ:LkGwnXOMwfcC:
-    citations: 35
+    citations: 36
     title: Generating non-linear interpolants by semidefinite programming
     year: '2013'
   bd-XZkYAAAAJ:M3NEmzRMIkIC:
@@ -378,7 +386,7 @@ papers:
     title: "Unbounded-Time Safety Verification of Stochastic Differential Dynamics \u041E \u968F\u673A\u5FAE\u5206\u7CFB\u7EDF\u7684\u65E0\u7A77\u65F6\u95F4\u5B89\u5168\u6027\u9A8C\u8BC1 Shenghua Feng1, 2, Mingshuai Chen3, Bai Xue1, 2, Sriram \u2026"
     year: '2010'
   bd-XZkYAAAAJ:Mojj43d5GZwC:
-    citations: 10
+    citations: 11
     title: Model checking bounded continuous-time extended linear duration invariants
     year: '2018'
   bd-XZkYAAAAJ:N5tVd3kTz84C:
@@ -438,7 +446,7 @@ papers:
     title: Semantics foundation for cyber-physical systems using higher-order UTP
     year: '2023'
   bd-XZkYAAAAJ:PoWvk5oyLR8C:
-    citations: 10
+    citations: 11
     title: Robust invariant sets computation for discrete-time perturbed nonlinear systems
     year: '2021'
   bd-XZkYAAAAJ:QD3KBmkZPeQC:
@@ -494,7 +502,7 @@ papers:
     title: Connecting algebraic and logical descriptions of concurrent systems
     year: '2006'
   bd-XZkYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 36
+    citations: 42
     title: Symbolic decision procedure for termination of linear programs
     year: '2011'
   bd-XZkYAAAAJ:UHK10RUVsp4C:
@@ -510,7 +518,7 @@ papers:
     title: Robust regions of attraction generation for state-constrained perturbed discrete-time polynomial systems
     year: '2020'
   bd-XZkYAAAAJ:UeHWp8X0CEIC:
-    citations: 42
+    citations: 47
     title: Program verification by using DISCOVERER
     year: '2005'
   bd-XZkYAAAAJ:UebtZRa9Y70C:
@@ -518,7 +526,7 @@ papers:
     title: Formal verification of Simulink/Stateflow diagrams
     year: '2015'
   bd-XZkYAAAAJ:Ug5p-4gJ2f0C:
-    citations: 58
+    citations: 59
     title: Learning one-clock timed automata
     year: '2020'
   bd-XZkYAAAAJ:VL0QpB8kHFEC:
@@ -534,7 +542,7 @@ papers:
     title: Synthesizing robust domains of attraction for state-constrained perturbed polynomial systems
     year: '2021'
   bd-XZkYAAAAJ:WF5omc3nYNoC:
-    citations: 41
+    citations: 42
     title: Formal verification of a descent guidance control program of a lunar lander
     year: '2014'
   bd-XZkYAAAAJ:WJVC3Jt7v1AC:
@@ -558,7 +566,7 @@ papers:
     title: Learning Nondeterministic Real-Time Automata
     year: '2021'
   bd-XZkYAAAAJ:Y0pCki6q_DkC:
-    citations: 75
+    citations: 76
     title: Verifying simulink diagrams via a hybrid hoare logic prover
     year: '2013'
   bd-XZkYAAAAJ:Y5dfb0dijaUC:
@@ -578,7 +586,7 @@ papers:
     title: "Formal Methods: 24th International Symposium, FM 2021, Virtual Event, November 20\u201326, 2021, Proceedings"
     year: '2021'
   bd-XZkYAAAAJ:YsMSGLbcyi4C:
-    citations: 75
+    citations: 76
     title: Verifying Chinese train control system under a combined scenario by theorem proving
     year: '2013'
   bd-XZkYAAAAJ:ZHo1McVdvXMC:
@@ -614,7 +622,7 @@ papers:
     title: Program verification by reduction to semi-algebraic systems solving
     year: '2008'
   bd-XZkYAAAAJ:_OXeSy2IsFwC:
-    citations: 9
+    citations: 10
     title: Enhancing transformation from natural language to signal temporal logic using LLMs with diverse external knowledge
     year: '2025'
   bd-XZkYAAAAJ:_Qo2XoVZTnwC:
@@ -626,11 +634,11 @@ papers:
     title: General Chairs Kai Hu, Beihang University, China Naijun Zhan, Chinese Academy of Science, China Program Chairs Patricia Derler, National Instruments, USA
     year: Unknown Year
   bd-XZkYAAAAJ:_kc_bZDykSQC:
-    citations: 83
+    citations: 85
     title: 'An improved HHL prover: an interactive theorem prover for hybrid systems'
     year: '2015'
   bd-XZkYAAAAJ:a0OBvERweLwC:
-    citations: 6
+    citations: 9
     title: Formal analysis and verification of chinese train control system
     year: '2015'
   bd-XZkYAAAAJ:a3BOlSfXSfwC:
@@ -660,7 +668,7 @@ papers:
   bd-XZkYAAAAJ:bKqednn6t2AC:
     citations: 1
     title: 'HHLPar: Automated Theorem Prover for Parallel Hybrid Communicating Sequential Processes'
-    year: '2024'
+    year: '2025'
   bd-XZkYAAAAJ:blknAaTinKkC:
     citations: 0
     title: 'MARS: A Toolkit for Modelling, Analysis, and Verification of Hybrid Systems'
@@ -670,7 +678,7 @@ papers:
     title: Quantum Hoare Logic. Archive of Formal Proofs (March 2019)
     year: '2019'
   bd-XZkYAAAAJ:cFHS6HbyZ2cC:
-    citations: 93
+    citations: 95
     title: Formal Verification of Simulink/Stateflow Diagrams
     year: '2017'
   bd-XZkYAAAAJ:cWzG1nlazyYC:
@@ -678,15 +686,15 @@ papers:
     title: Switching controller synthesis for hybrid systems against STL formulas
     year: '2024'
   bd-XZkYAAAAJ:d1gkVwhDpl0C:
-    citations: 148
+    citations: 152
     title: Computing semi-algebraic invariants for polynomial dynamical systems
     year: '2011'
   bd-XZkYAAAAJ:dQ2og3OwTAUC:
-    citations: 66
+    citations: 67
     title: Inner-approximating reachable sets for polynomial systems with time-varying uncertainties
     year: '2019'
   bd-XZkYAAAAJ:dTyEYWd-f8wC:
-    citations: 27
+    citations: 28
     title: Synthesizing switching controllers for hybrid systems by generating invariants
     year: '2013'
   bd-XZkYAAAAJ:dhFuZR0502QC:
@@ -706,7 +714,7 @@ papers:
     title: Component publications and compositions
     year: '2008'
   bd-XZkYAAAAJ:e_rmSamDkqQC:
-    citations: 74
+    citations: 87
     title: Overview of formal methods
     year: '2019'
   bd-XZkYAAAAJ:edDO8Oi4QzsC:
@@ -714,7 +722,7 @@ papers:
     title: Monitoring CTMCs by Multi-clock Timed Automata
     year: Unknown Year
   bd-XZkYAAAAJ:eflP2zaiRacC:
-    citations: 51
+    citations: 52
     title: Finding polynomial loop invariants for probabilistic programs
     year: '2017'
   bd-XZkYAAAAJ:epqYDVWIO7EC:
@@ -770,7 +778,7 @@ papers:
     title: An intuitive formal proof for deadline driven scheduler
     year: '2001'
   bd-XZkYAAAAJ:hCrLmN-GePgC:
-    citations: 25
+    citations: 27
     title: Unified graphical co-modeling, analysis and verification of cyber-physical systems by combining AADL and Simulink/Stateflow
     year: '2022'
   bd-XZkYAAAAJ:hFOr9nPyWt4C:
@@ -782,7 +790,7 @@ papers:
     title: On termination of polynomial programs with equality conditions
     year: '2015'
   bd-XZkYAAAAJ:hMsQuOkrut0C:
-    citations: 29
+    citations: 30
     title: Learning real-time automata
     year: '2021'
   bd-XZkYAAAAJ:hkOj_22Ku90C:
@@ -798,11 +806,11 @@ papers:
     title: Combining hierarchical specification with hierarchical implementation
     year: '2003'
   bd-XZkYAAAAJ:ipzZ9siozwsC:
-    citations: 14
+    citations: 16
     title: Probably approximate safety verification of hybrid dynamical systems
     year: '2019'
   bd-XZkYAAAAJ:isC4tDSrTZIC:
-    citations: 31
+    citations: 33
     title: Behavior modeling and verification of movement authority scenario of Chinese train control system using AADL
     year: '2015'
   bd-XZkYAAAAJ:j3f4tGmQtD8C:
@@ -817,6 +825,10 @@ papers:
     citations: 0
     title: MEMOCODE 2025
     year: Unknown Year
+  bd-XZkYAAAAJ:jgBuDB5drN8C:
+    citations: 0
+    title: Solving Stochastic Constraints by Oracle-based Gradient Descent and Interval Arithmetic
+    year: '2026'
   bd-XZkYAAAAJ:k8Z6L05lTy4C:
     citations: 2
     title: Probably approximately correct interpolants generation
@@ -830,7 +842,7 @@ papers:
     title: Refinement of actions for real-time concurrent systems with causal ambiguity
     year: '2004'
   bd-XZkYAAAAJ:kuK5TVdYjLIC:
-    citations: 8
+    citations: 9
     title: PAC learning of deterministic one-clock timed automata
     year: '2020'
   bd-XZkYAAAAJ:kz9GbA2Ns4gC:
@@ -858,7 +870,7 @@ papers:
     title: Derivative-Agnostic Inference of Nonlinear Hybrid Systems
     year: '2025'
   bd-XZkYAAAAJ:mB3voiENLucC:
-    citations: 4
+    citations: 5
     title: Model checking linear duration invariants of networks of automata
     year: '2009'
   bd-XZkYAAAAJ:mNrWkgRL2YcC:
@@ -866,7 +878,7 @@ papers:
     title: Completeness of Higher-Order
     year: '2000'
   bd-XZkYAAAAJ:mVmsd5A6BfQC:
-    citations: 9
+    citations: 11
     title: Discovering non-terminating inputs for multi-path polynomial programs
     year: '2014'
   bd-XZkYAAAAJ:mlAyqtXpCwEC:
@@ -886,7 +898,7 @@ papers:
     title: Runtime enforcement of CPS against signal temporal logic
     year: '2025'
   bd-XZkYAAAAJ:nrtMV_XWKgEC:
-    citations: 15
+    citations: 17
     title: Unified graphical co-modelling of cyber-physical systems using AADL and Simulink/Stateflow
     year: '2019'
   bd-XZkYAAAAJ:ns9cj8rnVeAC:
@@ -894,7 +906,7 @@ papers:
     title: Invariant Generation
     year: '2016'
   bd-XZkYAAAAJ:oNZyr7d5Mn4C:
-    citations: 27
+    citations: 29
     title: Reach-avoid analysis for stochastic discrete-time systems
     year: '2021'
   bd-XZkYAAAAJ:otzGkya1bYkC:
@@ -918,7 +930,7 @@ papers:
     title: Synthesizing invariant barrier certificates via difference-of-convex programming
     year: '2021'
   bd-XZkYAAAAJ:qxL8FJ1GzNcC:
-    citations: 36
+    citations: 37
     title: 'Hybrid annex: An AADL extension for continuous behavior and cyber-physical interaction modeling'
     year: '2014'
   bd-XZkYAAAAJ:rO6llkc54NcC:
@@ -934,7 +946,7 @@ papers:
     title: Defensive Design of Saturating Counters Based on Differential Privacy
     year: '2022'
   bd-XZkYAAAAJ:roLk4NBRz8UC:
-    citations: 52
+    citations: 54
     title: Abstraction of elementary hybrid systems by variable transformation
     year: '2015'
   bd-XZkYAAAAJ:sJsF-0ZLhtgC:
@@ -966,7 +978,7 @@ papers:
     title: A formal proof of the rate monotonic scheduler
     year: '1999'
   bd-XZkYAAAAJ:tYavs44e6CUC:
-    citations: 15
+    citations: 16
     title: Unbounded-time safety verification of stochastic differential dynamics
     year: '2020'
   bd-XZkYAAAAJ:tkaPQYYpVKoC:
@@ -982,15 +994,15 @@ papers:
     title: Learning Subject to Constraints via Abstract Gradient Descent
     year: '2025'
   bd-XZkYAAAAJ:u-x6o8ySG0sC:
-    citations: 91
+    citations: 100
     title: Discovering non-linear ranking functions by solving semi-algebraic systems
     year: '2007'
   bd-XZkYAAAAJ:u5HHmVD_uO8C:
-    citations: 84
+    citations: 85
     title: Refinement and verification in component-based model-driven design
     year: '2009'
   bd-XZkYAAAAJ:uDGL6kOW6j0C:
-    citations: 2
+    citations: 3
     title: A theorem prover for quantum Hoare logic and its applications (2016)
     year: '2016'
   bd-XZkYAAAAJ:uJ-U7cs_P_0C:
@@ -1018,7 +1030,7 @@ papers:
     title: Model checking conditional CSL for continuous-time Markov chains
     year: '2013'
   bd-XZkYAAAAJ:umqufdRvDiIC:
-    citations: 22
+    citations: 23
     title: Lower bounds for possibly divergent probabilistic programs
     year: '2023'
   bd-XZkYAAAAJ:vDZJ-YLwNdEC:
@@ -1061,6 +1073,10 @@ papers:
     citations: 4
     title: Combining formal and informal methods in the design of spacecrafts
     year: '2016'
+  bd-XZkYAAAAJ:zCSUwVk65WsC:
+    citations: 0
+    title: Efficient Decomposition Identification
+    year: Unknown Year
   bd-XZkYAAAAJ:zLWjf1WUPmwC:
     citations: 26
     title: Automatically generating SystemC code from HCSP formal models
