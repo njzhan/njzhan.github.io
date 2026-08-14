@@ -741,52 +741,34 @@ footer.sticky-bottom {
     text-align: right;
   }
 
-  // Type-grouped publication list ([B1], [E1], [J1], [C1] ... newest first).
-  // Each section's entries are already newest-first in papers.bib, so a plain
-  // ascending counter reproduces the reference numbers used on the old site.
+  // Type-grouped publication list. The [B1]/[E1]/[J1]/[C1] reference numbers are
+  // emitted server-side by _layouts/bib.liquid rather than with CSS counters:
+  // counters do not increment on display:none elements, so filtering with the
+  // bibsearch box would silently renumber the list.
   .pub-list {
     h2.bibliography {
       color: var(--global-text-color);
       text-align: left;
       font-size: 1.5rem;
       margin-bottom: 1.25rem;
+      scroll-margin-top: 5rem;
     }
 
-    ol.bibliography {
-      counter-reset: pubcounter;
-
-      > li {
-        counter-increment: pubcounter;
-        position: relative;
-        padding-left: 4rem;
-        margin-bottom: 1.25rem;
-
-        &::before {
-          position: absolute;
-          left: 0;
-          top: 0;
-          color: var(--global-theme-color);
-          font-weight: bold;
-          white-space: nowrap;
-        }
-      }
+    ol.bibliography > li {
+      position: relative;
+      padding-left: 4rem;
+      margin-bottom: 1.25rem;
     }
-  }
 
-  .pub-list-book ol.bibliography > li::before {
-    content: "[B" counter(pubcounter) "]";
-  }
-
-  .pub-list-edited ol.bibliography > li::before {
-    content: "[E" counter(pubcounter) "]";
-  }
-
-  .pub-list-journal ol.bibliography > li::before {
-    content: "[J" counter(pubcounter) "]";
-  }
-
-  .pub-list-conference ol.bibliography > li::before {
-    content: "[C" counter(pubcounter) "]";
+    .pub-index {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 3.5rem;
+      color: var(--global-theme-color);
+      font-weight: bold;
+      white-space: nowrap;
+    }
   }
 
   // On narrow screens the gutter eats too much width: show the reference
@@ -794,12 +776,13 @@ footer.sticky-bottom {
   @media (max-width: 576px) {
     .pub-list ol.bibliography > li {
       padding-left: 0;
+    }
 
-      &::before {
-        position: static;
-        display: block;
-        margin-bottom: 0.15rem;
-      }
+    .pub-list .pub-index {
+      position: static;
+      display: block;
+      width: auto;
+      margin-bottom: 0.15rem;
     }
   }
 

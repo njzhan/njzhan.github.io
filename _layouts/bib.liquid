@@ -47,6 +47,24 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    <!--
+      Reference number ([B1]/[E1]/[J1]/[C1]), rendered server-side so it stays
+      stable while the bibsearch filter hides entries
+    -->
+    {% if page.pub_index_labels %}
+      {%- assign pub_letter = 'B' -%}
+      {%- if entry.type == 'article' -%}
+        {%- assign pub_letter = 'J' -%}
+      {%- elsif entry.type == 'inproceedings' -%}
+        {%- assign pub_letter = 'C' -%}
+      {%- elsif entry.type == 'misc' -%}
+        {%- assign pub_letter = 'E' -%}
+      {%- endif -%}
+      <span class="pub-index"
+        >[{{ pub_letter -}}
+        {{- index }}]</span
+      >
+    {% endif %}
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->

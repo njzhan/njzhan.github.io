@@ -5,6 +5,7 @@ title: Publications
 description: Books, edited volumes, journal and conference papers, in reversed chronological order within each category.
 nav: true
 nav_order: 1
+pub_index_labels: true # renders [B1]/[E1]/[J1]/[C1] reference numbers
 ---
 
 <!-- _pages/publications.md -->
