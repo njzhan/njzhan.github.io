@@ -7,7 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-
 ## Graduate students (PhD)
 
 - Ziran Wang
@@ -25,6 +24,7 @@ nav_order: 4
 ### Graduate Alumni
 
 **PhD**
+
 - Hengjun Zhao (now: Associate professor, Southwest University)
 - Liang Zou (now: Tech Lead at Horizon Robotics)
 - Mingshuai Chen (now: ZJU100 Young Professor, Zhejiang University)
@@ -37,6 +37,7 @@ nav_order: 4
 - Xiangyu Jin (now: Postdoc at ISCAS)
 
 **Master**
+
 - Zhao Quan
 - Yang Gao (now: PhD student at Oldenburg University)
 - Danqing Guo (now: MetaX)
@@ -57,7 +58,6 @@ nav_order: 4
 - Yan Zhang (now: assistant professor, Nanjing Forestry University)
 - Alexander Bentkamp (now: Cryspen)
 - Xiong Xu
-
 
 <!-- ## Undergraduate students
 

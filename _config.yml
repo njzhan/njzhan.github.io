@@ -7,7 +7,7 @@ first_name: Naijun
 middle_name:
 last_name: Zhan
 contact_note: >
-  
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage of Naijun Zhan, Boya Distinguished Professor of Computer Science at Peking University, working on formal methods, hybrid systems, and program verification.
 footer_text: >

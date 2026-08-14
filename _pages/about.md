@@ -31,10 +31,10 @@ Dr. Naijun Zhan is a Boya distinguished professor in the School of Computer Scie
 
 ## Research interests
 
-- Formal techniques for the design of real-time and hybrid systems  
-- Program verification and automated theorem proving  
-- Modal and temporal logics  
-- Concurrent computation models  
+- Formal techniques for the design of real-time and hybrid systems
+- Program verification and automated theorem proving
+- Modal and temporal logics
+- Concurrent computation models
 - Semantic foundations of component and object systems
 
 ## Tools and resources
