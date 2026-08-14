@@ -3,12 +3,18 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.DS_store
+.DS_Store
 .ruby-version
 .tweet-cache
-Gemfile.lock
 assets/libs/
 node_modules/
 vendor
 .idea
 .venv
+
+# Legacy site source archive (migration source, never commit)
+website/
+
+# MS Word lock files / LaTeX build artifacts
+~$*
+*.synctex.gz
