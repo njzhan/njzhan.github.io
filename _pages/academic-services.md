@@ -25,7 +25,8 @@ description: Professional activities and academic service roles.
 
 ## Program Committees
 
-- 2026: [FM](https://dblp.org/db/conf/fm/), [TACAS](https://dblp.org/db/conf/tacas/), [HSCC](https://dblp.org/db/conf/hybrid/), [ICCPS](https://dblp.org/db/conf/iccps/)
+- 2027: [TACAS](https://dblp.org/db/conf/tacas/) (PC co-chair)
+- 2026: [FM](https://dblp.org/db/conf/fm/), [TACAS](https://dblp.org/db/conf/tacas/), [HSCC](https://dblp.org/db/conf/hybrid/), [ICCPS](https://dblp.org/db/conf/iccps/), [FMICS](https://dblp.org/db/conf/fmics/), [TASE](https://dblp.org/db/conf/tase/), [SFPVV](https://dblp.org/search?q=SFPVV), [QEST](https://dblp.org/db/conf/qest/)+[FORMATS](https://dblp.org/db/conf/formats/)
 - 2025: [HSCC](https://dblp.org/db/conf/hybrid/), [ICCPS](https://dblp.org/db/conf/iccps/), [ICFEM](https://dblp.org/db/conf/icfem/) (PC co-chair), [SETTA](https://dblp.org/db/conf/setta/) (general chair), [iFM](https://dblp.org/db/conf/ifm/)
 - 2024: [CAV](https://dblp.org/db/conf/cav/), [FM](https://dblp.org/db/conf/fm/), [ICCPS](https://dblp.org/db/conf/iccps/), [HSCC](https://dblp.org/db/conf/hybrid/), [ADHS](https://dblp.org/db/conf/adhs/), [FASE](https://dblp.org/db/conf/fase/), [TASE](https://dblp.org/db/conf/tase/), [ABZ](https://dblp.org/db/conf/abz/), [CICM](https://dblp.org/db/conf/cicm/), [RTCSA](https://dblp.org/db/conf/rtcsa/), [FCJ](https://dblp.org/search?q=FCJ)
 - 2023: [RTSS](https://dblp.org/db/conf/rtss/), [CAV](https://dblp.org/db/conf/cav/), [HSCC](https://dblp.org/db/conf/hybrid/), [ICCPS](https://dblp.org/db/conf/iccps/), [TACAS](https://dblp.org/db/conf/tacas/), [FM](https://dblp.org/db/conf/fm/), [ABZ](https://dblp.org/db/conf/abz/), [TASE](https://dblp.org/db/conf/tase/), [iFM](https://dblp.org/db/conf/ifm/), [ICFEM](https://dblp.org/db/conf/icfem/)
