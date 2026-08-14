@@ -760,6 +760,19 @@ footer.sticky-bottom {
       margin-bottom: 1.25rem;
     }
 
+    // Award-winning papers: make the badge read as a distinction rather than
+    // just another link button.
+    .links a.award.btn {
+      color: var(--global-highlight-color) !important;
+      border-color: var(--global-highlight-color);
+      font-weight: bold;
+
+      &:hover {
+        background-color: var(--global-highlight-color);
+        color: var(--global-card-bg-color) !important;
+      }
+    }
+
     // Anchored to the <li>, not the Bootstrap column (which is position:relative
     // and starts where the title does). Sits in the padding gutter.
     .pub-index {
