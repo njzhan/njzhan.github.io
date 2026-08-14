@@ -4,7 +4,7 @@ permalink: /Students/
 title: Students
 description: Members and alumni of Naijun Zhan's group.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 
@@ -47,12 +47,8 @@ nav_order: 3
 - Qianqian Lin
 - Qiang Gao
 
-## Postdoctoral Researchers
+## Postdoctoral Alumni
 
-(Current)
--
-
-(Alumni)
 - Jiang Liu (now: associate professor, Chongqing Institute of Green Intelligent Technology)
 - Ming Xu (now: associate professor, East China Normal University)
 - Shuling Wang (now: research associate professor, Institute of Software, CAS)
