@@ -2,7 +2,7 @@
 layout: page
 permalink: /Publications/
 title: Publications
-description: Books, edited volumes, journal and conference papers, in reversed chronological order.
+description: Books, edited volumes, journal and conference papers, in reversed chronological order within each category.
 nav: true
 nav_order: 1
 ---
@@ -17,6 +17,24 @@ For the most recent publications, you may also refer to my [Google Scholar profi
 
 <div class="publications">
 
-{% bibliography %}
+<div class="pub-list pub-list-book">
+<h2 class="bibliography">Books and Book Chapters</h2>
+{% bibliography --query @book, @incollection --group_by none --prefix b %}
+</div>
+
+<div class="pub-list pub-list-edited">
+<h2 class="bibliography">Edited Volumes and Special Issues</h2>
+{% bibliography --query @misc --group_by none --prefix e %}
+</div>
+
+<div class="pub-list pub-list-journal">
+<h2 class="bibliography">Journal Papers</h2>
+{% bibliography --query @article --group_by none --prefix j %}
+</div>
+
+<div class="pub-list pub-list-conference">
+<h2 class="bibliography">Conference and Workshop Papers</h2>
+{% bibliography --query @inproceedings --group_by none --prefix c %}
+</div>
 
 </div>
