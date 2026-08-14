@@ -27,11 +27,11 @@ nav_order: 4
 **PhD**
 - Hengjun Zhao (now: Associate professor, Southwest University)
 - Liang Zou (now: Tech Lead at Horizon Robotics)
-- Mingshuai Chen (now: Assistant Professor, Zhejiang University)
-- Lintai Wang (now: Research Scientist at CCID)
+- Mingshuai Chen (now: ZJU100 Young Professor, Zhejiang University)
+- Lingtai Wang (now: Research Scientist at CCID)
 - Qiuye Wang (now: Tech Lead at Alibaba)
 - Jie An (now: Research Associate Professor at ISCAS)
-- Shenghua Feng (now: Research Scientist at Zhongguancun Laboratory)
+- Shenghua Feng (now: Associate Researcher, Institute of Software, CAS)
 - Han Su (now: Postdoc at NII, Japan)
 - Tengshun Yang (now: Research Scientist at Huawei)
 - Xiangyu Jin (now: Postdoc at ISCAS)
@@ -55,7 +55,7 @@ nav_order: 4
 - Jiaqi Zhu (now: research associate professor, Institute of Software, CAS)
 - Yangjia Li (now: research associate professor, Institute of Software, CAS)
 - Yan Zhang (now: assistant professor, Nanjing Forestry University)
-- Alexander Bentkamp
+- Alexander Bentkamp (now: Cryspen)
 - Xiong Xu
 
 
