@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: / Talks/
-title: Selected Talks
+title: Talks
 description: Invited talks, keynotes and tutorials, in reverse chronological order.
 nav: true
 nav_order: 2
