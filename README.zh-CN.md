@@ -28,6 +28,7 @@
 | --------------- | ------------------- | ---------------------------------------- |
 | 主页 / 个人简介 | `/`                 | `_pages/about.md`                        |
 | 论文列表        | `/Publications/`    | `_bibliography/papers.bib`               |
+| 学术报告        | `/Talks/`           | `_pages/talks.md`                        |
 | 学术服务        | `/Services/`        | `_pages/academic-services.md`            |
 | 科研项目        | `/Grants/`          | `_pages/grants.md`                       |
 | 学生            | `/Students/`        | `_pages/students.md`                     |
@@ -58,7 +59,7 @@ nav_order: 3 # 导航栏中从左到右的顺序
 ---
 ```
 
-当前导航栏顺序为：About（始终排第一）· Publications · Academic Service · Grants · Students · Teaching。简历页面特意设置为 `nav: false`，即可通过 `/CV/` 访问但不在导航栏中显示。
+当前导航栏顺序为：About（始终排第一）· Publications · Talks · Academic Service · Grants · Students · Teaching。简历页面特意设置为 `nav: false`，即可通过 `/CV/` 访问但不在导航栏中显示。
 
 ---
 
@@ -166,6 +167,14 @@ nav_order: 3 # 导航栏中从左到右的顺序
 #### 尚未正式发表的论文
 
 会议名称写成 `EMSOFT 2027 (to appear)` 的形式。
+
+### 学术报告（`_pages/talks.md`）
+
+受邀报告、大会特邀报告与讲习班，按时间倒序排列。新增时在最前面按以下格式添加一行：
+
+```markdown
+- **报告题目** — VENUE 2027, City, Country, Mon. 1–3, 2027
+```
 
 ### 学术服务（`_pages/academic-services.md`）
 

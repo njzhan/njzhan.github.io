@@ -4,7 +4,7 @@ permalink: /Grants/
 title: Grants
 description: Research grants and funded projects.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 1. 2026.1–2030.12, "Research on Design Techniques for Safety-Critical Systems in the Context of Mobile Computing", a key international collaboration project funded by the Natural Science Foundation of China (with ISCAS, Inria, CNRS-IRIT, LORIA)

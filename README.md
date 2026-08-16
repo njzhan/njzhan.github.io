@@ -28,6 +28,7 @@ If the change doesn't appear, see [Troubleshooting](#troubleshooting).
 | ------------------------- | ------------------- | ------------------------------------------- |
 | Home / About              | `/`                 | `_pages/about.md`                           |
 | Publications              | `/Publications/`    | `_bibliography/papers.bib`                  |
+| Talks                     | `/Talks/`           | `_pages/talks.md`                           |
 | Academic Service          | `/Services/`        | `_pages/academic-services.md`               |
 | Grants                    | `/Grants/`          | `_pages/grants.md`                          |
 | Students                  | `/Students/`        | `_pages/students.md`                        |
@@ -58,7 +59,7 @@ nav_order: 3 # left-to-right order in the navbar
 ---
 ```
 
-The navbar order is currently: About (1st, always) · Publications · Academic Service · Grants · Students · Teaching. The CV page is deliberately `nav: false` — it exists at `/CV/` but is not listed in the navbar.
+The navbar order is currently: About (1st, always) · Publications · Talks · Academic Service · Grants · Students · Teaching. The CV page is deliberately `nav: false` — it exists at `/CV/` but is not listed in the navbar.
 
 ---
 
@@ -166,6 +167,14 @@ Three papers currently carry awards (ATVA 2018, SETTA 2018, HSCC 2025) — searc
 #### For papers not yet published
 
 Write the venue as `EMSOFT 2027 (to appear)`.
+
+### Talks (`_pages/talks.md`)
+
+Invited talks, keynotes and tutorials, newest first. Add a new one at the top, following the existing pattern:
+
+```markdown
+- **Title of the Talk** — VENUE 2027, City, Country, Mon. 1–3, 2027
+```
 
 ### Academic Service (`_pages/academic-services.md`)
 

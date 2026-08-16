@@ -4,7 +4,7 @@ permalink: /Students/
 title: Students
 description: Members and alumni of Naijun Zhan's group.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## Graduate students (PhD)
@@ -17,7 +17,7 @@ nav_order: 4
 - Xuxiao Yuan (PKU)
 - Changlin Li (PKU)
 
-### Intern students 
+### Intern students
 
 - Zhixin Zhang
 - Fanpeng Yang
@@ -42,12 +42,12 @@ nav_order: 4
 **Master**
 
 - Zhao Quan
-- Yang Gao 
-- Danqing Guo 
-- Yu Peng 
-- Tao Liu 
-- Jian Wang 
-- Haolan Zhan 
+- Yang Gao
+- Danqing Guo
+- Yu Peng
+- Tao Liu
+- Jian Wang
+- Haolan Zhan
 - Qianqian Lin
 - Qiang Gao
 - Chenhao Wu
@@ -62,6 +62,3 @@ nav_order: 4
 - Yan Zhang (now: assistant professor, Nanjing Forestry University)
 - Alexander Bentkamp (now: Cryspen)
 - Xiong Xu (Now asistant professor, Institute of Software, CAS)
-
-
-

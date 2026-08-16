@@ -4,7 +4,7 @@ permalink: /Teaching/
 title: Teaching
 description: Courses taught by Naijun Zhan.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 I regularly teach and advise courses on formal methods and the design of safety-critical systems.

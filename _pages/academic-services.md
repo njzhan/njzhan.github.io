@@ -3,7 +3,7 @@ layout: page
 title: Academic Service
 permalink: /Services/
 nav: true
-nav_order: 2
+nav_order: 3
 description: Professional activities and academic service roles.
 ---
 
