@@ -58,7 +58,7 @@ nav_order: 3 # 导航栏中从左到右的顺序
 ---
 ```
 
-当前导航栏顺序为：About（始终排第一）· Publications · Services · Grants · Students · Teaching。简历页面特意设置为 `nav: false`，即可通过 `/CV/` 访问但不在导航栏中显示。
+当前导航栏顺序为：About（始终排第一）· Publications · Academic Service · Grants · Students · Teaching。简历页面特意设置为 `nav: false`，即可通过 `/CV/` 访问但不在导航栏中显示。
 
 ---
 

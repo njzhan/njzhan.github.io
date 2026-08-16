@@ -28,7 +28,7 @@ If the change doesn't appear, see [Troubleshooting](#troubleshooting).
 | ------------------------- | ------------------- | ------------------------------------------- |
 | Home / About              | `/`                 | `_pages/about.md`                           |
 | Publications              | `/Publications/`    | `_bibliography/papers.bib`                  |
-| Services                  | `/Services/`        | `_pages/academic-services.md`               |
+| Academic Service          | `/Services/`        | `_pages/academic-services.md`               |
 | Grants                    | `/Grants/`          | `_pages/grants.md`                          |
 | Students                  | `/Students/`        | `_pages/students.md`                        |
 | Teaching                  | `/Teaching/`        | `_pages/teaching.md`                        |
@@ -58,7 +58,7 @@ nav_order: 3 # left-to-right order in the navbar
 ---
 ```
 
-The navbar order is currently: About (1st, always) · Publications · Services · Grants · Students · Teaching. The CV page is deliberately `nav: false` — it exists at `/CV/` but is not listed in the navbar.
+The navbar order is currently: About (1st, always) · Publications · Academic Service · Grants · Students · Teaching. The CV page is deliberately `nav: false` — it exists at `/CV/` but is not listed in the navbar.
 
 ---
 
@@ -167,7 +167,7 @@ Three papers currently carry awards (ATVA 2018, SETTA 2018, HSCC 2025) — searc
 
 Write the venue as `EMSOFT 2027 (to appear)`.
 
-### Services (`_pages/academic-services.md`)
+### Academic Service (`_pages/academic-services.md`)
 
 Editorial boards, steering committees, and program committees by year. To add a new year, copy an existing line and put it at the top of the Program Committees list. Conference links use `https://dblp.org/db/conf/<venue>/`; for venues without a DBLP page, use `https://dblp.org/search?q=<venue>`.
 
