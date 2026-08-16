@@ -9,17 +9,19 @@ nav_order: 4
 
 ## Graduate students (PhD)
 
-- Ziran Wang
-- Hao Wu
-- Jiyu Zhu
-- Guanhua Lin
-- Liangran Zhao
-- Haobo Zhang
+- Ziran Wang (ISCAS)
+- Jiyu Zhu (ISCAS)
+- Guanhua Lin (ISCAS)
+- Liangran Zhao (PKU)
+- Haobo Zhang (PKU)
+- Xuxiao Yuan (PKU)
+- Changlin Li (PKU)
 
-### Graduate students (Master)
+### Intern students 
 
-- Chenhao Wu
-- Yuliang Cai
+- Zhixin Zhang
+- Fanpeng Yang
+- Shengyuan Jia
 
 ### Graduate Alumni
 
@@ -35,37 +37,31 @@ nav_order: 4
 - Han Su (now: Postdoc at NII, Japan)
 - Tengshun Yang (now: Research Scientist at Huawei)
 - Xiangyu Jin (now: Postdoc at ISCAS)
+- Hao Wu (now: Postdoc at ISTA)
 
 **Master**
 
 - Zhao Quan
-- Yang Gao (now: PhD student at Oldenburg University)
-- Danqing Guo (now: MetaX)
-- Yu Peng (now: Sina)
-- Tao Liu (now: Netease)
-- Jian Wang (now: PhD at MPI)
-- Haolan Zhan (now: Microsoft)
+- Yang Gao 
+- Danqing Guo 
+- Yu Peng 
+- Tao Liu 
+- Jian Wang 
+- Haolan Zhan 
 - Qianqian Lin
 - Qiang Gao
+- Chenhao Wu
 
 ## Postdoctoral Alumni
 
 - Jiang Liu (now: associate professor, Chongqing Institute of Green Intelligent Technology)
 - Ming Xu (now: associate professor, East China Normal University)
-- Shuling Wang (now: research associate professor, Institute of Software, CAS)
-- Jiaqi Zhu (now: research associate professor, Institute of Software, CAS)
-- Yangjia Li (now: research associate professor, Institute of Software, CAS)
+- Shuling Wang (now: associate professor, Institute of Software, CAS)
+- Jiaqi Zhu (now: associate professor, Institute of Software, CAS)
+- Yangjia Li (now: associate professor, Institute of Software, CAS)
 - Yan Zhang (now: assistant professor, Nanjing Forestry University)
 - Alexander Bentkamp (now: Cryspen)
-- Xiong Xu
+- Xiong Xu (Now asistant professor, Institute of Software, CAS)
 
-<!-- ## Undergraduate students
 
-- Changlin Li (PKU)
-- Xixiao Yuan (PKU)
-- Chengyou Jiang (PKU)
-- Xuyuan Jia (PKU)
 
-## Undergraduate Alumni
-
-- Weiqiang Xiong (UCAS) -->
