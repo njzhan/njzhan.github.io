@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Talks/
+permalink: /Selected Invited Talks/
 title: Talks
 description: Invited talks, keynotes and tutorials, in reverse chronological order.
 nav: true
