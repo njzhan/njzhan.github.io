@@ -22,6 +22,7 @@ nav_order: 5
 - Zhixin Zhang
 - Fanpeng Yang
 - Shengyuan Jia
+- Chengyou Jiang
 
 ### Graduate Alumni
 
