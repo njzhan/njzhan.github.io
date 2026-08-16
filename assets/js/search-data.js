@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Invited talks, keynotes and tutorials, in reverse chronological order.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Talks/";
+            window.location.href = "/Selected%20Invited%20Talks/";
           },
         },{id: "nav-academic-service",
           title: "Academic Service",
