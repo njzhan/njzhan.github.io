@@ -6,7 +6,12 @@ description: Invited talks, keynotes and tutorials, in reverse chronological ord
 nav: true
 nav_order: 2
 ---
-
+- **On Termination of Polynomial Programs with Equality Conditions** — HCP 2026, Qingdao, China, Aug. 1–2, 2026
+- **Formal Design of Safety-Critical Embedded Systems** — Internetware 2026, Gold Cost, Australia, Jul. 18–20, 2026
+-  ** Verification of Stochastic Dynamical and Hybrid Systems** — Shonan Meeting 237:
+Frontiers of Formal Methods for Probabilistic Models and Programs, Shonan, Japan, Jun. 21–25, 2026
+-  ** Verification of Stochastic Dynamical and Hybrid Systems** — Shonan Meeting 237:
+Frontiers of Formal Methods for Probabilistic Models and Programs, Shonan, Japan, Jun. 21–25, 2026
 - **Formal Design of Safety-Critical Embedded Systems** — MEMOCODE 2025, Taipei, Oct. 2–3, 2025
 - **Synthesizing (Differential) Invariants by Reducing Non-Convex Programming to SDP** — ICFEM 2024, Hiroshima, Japan, Dec. 2–6, 2024
 - **Reset Controller Synthesis by Computing Invariants and Reach-avoid Sets** — TASE 2023, Bristol, United Kingdom, Jul. 4–6, 2023
