@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Dr. Naijun Zhan is a Boya distinguished professor in the School of Computer Science at Peking University (since April 2024). He previously served as a research professor at the State Key Lab of Computer Science, Institute of Software, Chinese Academy of Sciences, and was a research professor of the Chinese Academy of Sciences (since 2015). He received his PhD in computer science from ISCAS in 2000, and MSc/BSc degrees in computer science and mathematical logic from Nanjing University in 1996 and 1993. From 2001–2004, he worked at the Faculty of Mathematics and Informatics, University of Mannheim, Germany. He is a recipient of the Outstanding Youth Fund of the National Science Foundation of China (2016).
+Dr. Naijun Zhan is a Boya distinguished professor in the School of Computer Science at Peking University (since April 2024). Before that, he was a research professor (since October 2008) and a distinguished research professor (since 2015) in Institute of Software, Chinese Academy of Sciences. He received his PhD in computer science from ISCAS in 2000, and MSc/BSc degrees in computer science and mathematical logic from Nanjing University in 1996 and 1993. From 2001–2004, he worked at the Faculty of Mathematics and Informatics, University of Mannheim, Germany. He is a recipient of the Outstanding Youth Fund of the National Science Foundation of China (2016).
 
 ## Research interests
 
