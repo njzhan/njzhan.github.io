@@ -6,6 +6,7 @@ description: Invited talks, keynotes and tutorials, in reverse chronological ord
 nav: true
 nav_order: 2
 ---
+- **Formal Design of Safety-Critical CPSs** — Workshop on Sustainable CPS 2026, Munich, Germany, Oct. 12-13, 2026
 - **On Termination of Polynomial Programs with Equality Conditions** — HCP 2026, Qingdao, China, Aug. 1–2, 2026
 - **Formal Design of Safety-Critical Embedded Systems** — Internetware 2026, Gold Cost, Australia, Jul. 18–20, 2026
 - **Verification of Stochastic Dynamical and Hybrid Systems**  — Shonan Meeting 237:
